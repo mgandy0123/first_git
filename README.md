@@ -1,0 +1,3 @@
+# first_git
+...
+ok
